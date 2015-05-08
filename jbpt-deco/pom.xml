@@ -3,16 +3,16 @@
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <parent>
-        <groupId>com.github.imatesiu</groupId>
+        <groupId>com.github.imatesiu.jbpt</groupId>
         <artifactId>jbpt-parent</artifactId>
-        <version>0.2.393c</version>
+        <version>0.2.393d</version>
         <relativePath>../jbpt-parent</relativePath>
     </parent>
     <modelVersion>4.0.0</modelVersion>
-<groupId>com.github.imatesiu</groupId>
+<groupId>com.github.imatesiu.jbpt</groupId>
     <artifactId>jbpt-deco</artifactId>
     <packaging>jar</packaging>
-   <version>0.2.393c</version>
+   <version>0.2.393d</version>
 
 	<name>Business Process Technologies 4 Java - Decompositions Module</name>
 	<description>
@@ -38,7 +38,7 @@
 
     <dependencies>
 		<dependency>
-			<groupId>com.github.imatesiu</groupId>
+			<groupId>com.github.imatesiu.jbpt</groupId>
 			<artifactId>jbpt-core</artifactId>
 			<version>${jbpt.version}</version>
 		</dependency>	

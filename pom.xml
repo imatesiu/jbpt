@@ -7,7 +7,7 @@
 
 	<groupId>com.github.imatesiu</groupId>
 	<artifactId>jbpt</artifactId>
-	<version>0.2.393c</version>
+	<version>0.2.393d</version>
 	<packaging>pom</packaging>
 
 	<name>Business Process Technologies 4 Java</name>
