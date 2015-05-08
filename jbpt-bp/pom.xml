@@ -5,14 +5,14 @@
     <parent>
         <groupId>com.github.imatesiu</groupId>
         <artifactId>jbpt-parent</artifactId>
-        <version>0.2</version>
+        <version>0.2.393c</version>
         <relativePath>../jbpt-parent</relativePath>
     </parent>
     <modelVersion>4.0.0</modelVersion>
-
+<groupId>com.github.imatesiu</groupId>
     <artifactId>jbpt-bp</artifactId>
     <packaging>jar</packaging>
-    <version>0.2.393b</version>
+    <version>0.2.393c</version>
 
 	<name>Business Process Technologies 4 Java - BP Module</name>
 	<description>
