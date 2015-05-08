@@ -5,9 +5,9 @@
 
     <modelVersion>4.0.0</modelVersion>
 
-	<groupId>org.jbpt</groupId>
+	<groupId>com.github.imatesiu</groupId>
 	<artifactId>jbpt</artifactId>
-	<version>0.2.393</version>
+	<version>0.2.393c</version>
 	<packaging>pom</packaging>
 
 	<name>Business Process Technologies 4 Java</name>
@@ -56,8 +56,8 @@
 				<version>2.3.2</version>
 				<inherited>true</inherited>
 				<configuration>
-					<source>1.6</source>
-					<target>1.6</target>
+					<source>1.7</source>
+					<target>1.7</target>
 				</configuration>
 			</plugin>
 
