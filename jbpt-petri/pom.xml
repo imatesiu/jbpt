@@ -3,7 +3,7 @@
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <parent>
-        <groupId>org.jbpt</groupId>
+        <groupId>com.github.imatesiu</groupId>
         <artifactId>jbpt-parent</artifactId>
         <version>0.2</version>
         <relativePath>../jbpt-parent</relativePath>
@@ -12,7 +12,7 @@
 
     <artifactId>jbpt-petri</artifactId>
     <packaging>jar</packaging>
-    <version>0.2.393</version>
+    <version>0.2.393a</version>
 
 	<name>Business Process Technologies 4 Java - Petri Net Module</name>
 	<description>

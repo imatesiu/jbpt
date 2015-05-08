@@ -2,7 +2,7 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>org.jbpt</groupId>
+	<groupId>com.github.imatesiu</groupId>
 	<artifactId>jbpt-parent</artifactId>
 	<version>0.2</version>
 	<packaging>pom</packaging>
@@ -13,7 +13,7 @@
 
 	<properties>
 		<project.build.sourceEncoding>Cp1252</project.build.sourceEncoding>
-		<jbpt.version>0.2.393</jbpt.version>
+		<jbpt.version>0.2.393a</jbpt.version>
 	</properties>
 
 	<!-- Plugins to execute on Build -->
