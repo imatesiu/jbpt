@@ -12,7 +12,7 @@
 
     <artifactId>jbpt-core</artifactId>
     <packaging>jar</packaging>
-    <version>0.2.393a</version>
+    <version>0.2.393b</version>
 
 	<name>Business Process Technologies 4 Java - Core Module</name>
 	<description>

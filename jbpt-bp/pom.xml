@@ -12,7 +12,7 @@
 
     <artifactId>jbpt-bp</artifactId>
     <packaging>jar</packaging>
-    <version>0.2.393a</version>
+    <version>0.2.393b</version>
 
 	<name>Business Process Technologies 4 Java - BP Module</name>
 	<description>
@@ -38,12 +38,12 @@
 
     <dependencies>
 		<dependency>
-			<groupId>org.jbpt</groupId>
+			<groupId>com.github.imatesiu</groupId>
 			<artifactId>jbpt-core</artifactId>
 			<version>${jbpt.version}</version>
 		</dependency>
 		<dependency>
-			<groupId>org.jbpt</groupId>
+			<groupId>com.github.imatesiu</groupId>
 			<artifactId>jbpt-petri</artifactId>
 			<version>${jbpt.version}</version>
 		</dependency>
